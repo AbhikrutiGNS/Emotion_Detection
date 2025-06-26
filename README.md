@@ -16,7 +16,7 @@ A Python-based real-time facial **emotion detection system** using `OpenCV`, `De
 
 ---
 
-##Technologies Used
+## Technologies Used
 
 - [DeepFace](https://github.com/serengil/deepface) – facial emotion recognition
 - OpenCV – webcam access and video processing
@@ -25,9 +25,9 @@ A Python-based real-time facial **emotion detection system** using `OpenCV`, `De
 
 ---
 
-##Installation
+## Installation
 
-###Prerequisites
+### Prerequisites
 
 - Python 3.7 or higher
 - Webcam
